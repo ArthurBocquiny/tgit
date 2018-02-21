@@ -1,3 +1,3 @@
 <?php
-	echo "C'est moi toto..";
+	echo "toto..";
 ?>
